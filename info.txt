@@ -1,0 +1,30 @@
+SmartCycling pre-alpha
+======================
+
+1. Licznik rowerowy
+	- obliczanie prêdkoœci
+	- mierzenie dystansu
+	- obliczanie prêdkoœci œredniej
+	
+2. Termometr
+	- odczytywanie aktualnej temperatury powietrza (LM35, wyœwietlacz)
+	
+3. Klakson rowerowy 
+	- klakson (buzzer z generatorem)
+	
+4. Obs³uga œwiate³
+	- zarz¹dzanie œwiat³em przednim
+	- zarz¹dzanie grup¹ œwiate³ tylnich
+		-- œwiat³a pozycyjne
+		-- œwiat³a hamowania
+		-- kierunkowskazy
+		
+5. System alarmowy
+	- czujnik nacisku na siode³ko rowerowe
+	- sygna³ akustyczny
+	
+6. ATA System (Automatic Transmission Adjustment)
+	- automatyczne dostosowywanie przerzutek do panuj¹cych warunków jazdy
+	
+7. EPD System (Electronic Power Drive)
+	- system elektronicznego wspomagania napêdu
